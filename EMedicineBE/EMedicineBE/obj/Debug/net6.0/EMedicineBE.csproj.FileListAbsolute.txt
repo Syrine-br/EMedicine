@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\EMedicineBE\EMedicineBE\obj\Debug\net6.0\EMedicineBE.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\EMedicineBE\EMedicineBE\obj\Debug\net6.0\EMedicineBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\EMedicineBE\EMedicineBE\obj\Debug\net6.0\EMedicineBE.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EMedicineBE\EMedicineBE\obj\Debug\net6.0\EMedicineBE.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EMedicineBE\EMedicineBE\obj\Debug\net6.0\EMedicineBE.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EMedicineBE\EMedicineBE\obj\Debug\net6.0\EMedicineBE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\EMedicineBE\EMedicineBE\obj\Debug\net6.0\EMedicineBE.MvcApplicationPartsAssemblyInfo.cache
